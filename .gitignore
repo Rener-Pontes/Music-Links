@@ -1,1 +1,7 @@
+## Composer ignored.
 /vendor/
+/composer.lock
+
+
+## Project files ignored.
+/src/config.php
