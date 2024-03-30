@@ -1,0 +1,17 @@
+{
+    "name": "rener/music-links",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "music_links\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rener Pontes",
+            "email": "renercpontes@gmail.com"
+        }
+    ],
+    "require": {}
+}
